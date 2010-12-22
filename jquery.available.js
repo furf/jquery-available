@@ -188,7 +188,7 @@
    * @name jQuery.fn.ready
    * @public
    *
-   * @description A donkey punch to override default jQuery.fn.ready
+   * @description A duck punch to override default jQuery.fn.ready
    *   functionality with a more complete notion of "ready". If the first 
    *   member of the collection is document, we assume traditional usage and
    *   execute the callback on DOMReady. Otherwise, we use $.available and 
